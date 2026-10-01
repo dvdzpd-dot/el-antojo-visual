@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# El Antojo Visual
+
+RESTAURANTE DE ALITAS ,HAMBURGUESAS Y TACOS CON LOS PRECIOS SOLO PARA QUE SE VEA DIRECCION NUMERO DE TELEFONO  MUY VISUAL Y SE VA A LLAMAR EL ANTOJO
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/3f9d7dd4-6993-4e0c-ad14-d79b4fab482c).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
