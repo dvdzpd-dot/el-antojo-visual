@@ -37,7 +37,7 @@ const ADDRESS = "Av. Ejemplo 123, Col. Centro, CDMX";
 const HOURS = "Mar–Dom · 12:00 pm – 11:00 pm";
 
 const ALITAS = [
-  { name: "Alitas 6 pz", desc: "Buffalo, BBQ o mango-habanero", price: "$95" },
+  { name: "Alitas 6 pz", desc: "Buffalo, BBQ o mango-habanero", price: "$105" },
   { name: "Alitas 12 pz", desc: "Elige dos salsas", price: "$175" },
   { name: "Boneless 250 g", desc: "Con papas gajo", price: "$110" },
   { name: "Papas gajo", desc: "Con aderezo ranch", price: "$55" },
